@@ -1,0 +1,4 @@
+com\work\jobtracker\service\JobServiceTest.class
+com\work\jobtracker\repository\JobRepositoryTest.class
+com\work\jobtracker\controller\JobControllerTest.class
+com\work\jobtracker\JobTrackerApplicationTests.class

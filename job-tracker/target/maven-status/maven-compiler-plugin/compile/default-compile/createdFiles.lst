@@ -1,0 +1,11 @@
+com\work\jobtracker\exception\GlobalExceptionHandler$ErrorResponse.class
+com\work\jobtracker\service\JobService.class
+com\work\jobtracker\controller\JobController.class
+com\work\jobtracker\service\impl\JobServiceImpl.class
+com\work\jobtracker\config\DataLoader.class
+com\work\jobtracker\dto\JobDTO.class
+com\work\jobtracker\JobTrackerApplication.class
+com\work\jobtracker\exception\GlobalExceptionHandler.class
+com\work\jobtracker\exception\JobNotFoundException.class
+com\work\jobtracker\repository\JobRepository.class
+com\work\jobtracker\model\Job.class
